@@ -1,5 +1,6 @@
 <h1 align="center">Patsy</h1>
 <p align="center">A smart AI retail expert agent for PartSelect's ecommerce platform</p>
+<p align="center"><sub> By Jahnavi Kunapareddy</sub></p>
 
 
 <p align="center">
